@@ -1,2 +1,3 @@
 my file is t type
 this is second line
+third line added
